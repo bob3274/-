@@ -1,0 +1,7 @@
+{
+  "name": "Copy of My Personal Hub",
+  "description": "A comprehensive personal dashboard to track music, entertainment, travel spots, Japanese vocabulary learning, and professional experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
